@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+
+.card{
+   text-align: center;
+  text-transform: uppercase;
+}
+
+.card1{
+    background-color: aqua;
+    height: 15rem;
+    width: 15rem;
+    position: relative;
+}
+
+.card2{
+    background-color:blue;
+    height: 15rem;
+    width: 15rem;
+    position: absolute;
+    left: 2rem;
+    top: 2rem;
+}
+
+.card3{
+    background-color: red;
+    height: 15rem;
+    width: 15rem;
+    position: absolute;
+    left: 4rem;
+    top: 4rem;
+}
+
+.card4{
+    background-color:yellow;
+    height: 15rem;
+    width: 15rem;
+    position: absolute;
+    left: 6rem;
+    top: 6rem;
+}
+.card5{
+    background-color: orange;
+    height: 15rem;
+    width: 15rem;
+    position: absolute;
+    left: 8rem;
+    top: 8rem;
+}
+
+.card6{
+    background-color:blueviolet;
+    height: 15rem;
+    width: 15rem;
+    position: absolute;
+    left: 10rem;
+    top: 10rem;
+}
